@@ -12,7 +12,7 @@
             $active.fadeOut(fade_speed).removeClass("active");
             $next.fadeIn(fade_speed).addClass("active");
             console.log()
-            if($next.attr("src")=="prt6.png"){
+            if($next.attr("src")=="prt5.png"){
                 stopTimer();
             }
     }
